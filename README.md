@@ -4,4 +4,4 @@
 
 ⌨️ Tech: HTML, CSS e Javascript
 
-![Imagem](/imagem.png)
+![Imagem](/imagem.PNG)
